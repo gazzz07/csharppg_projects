@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\GIT\csharppg_projects\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\GIT\csharppg_projects\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\GIT\csharppg_projects\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\GIT\csharppg_projects\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\GIT\csharppg_projects\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\GIT\csharppg_projects\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+C:\GIT\csharppg_projects\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\GIT\csharppg_projects\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\GIT\csharppg_projects\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\GIT\csharppg_projects\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\GIT\csharppg_projects\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

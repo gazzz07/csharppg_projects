@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\CopyingArraysIntoArrays\bin\Debug\net8.0\CopyingArraysIntoArrays.exe
+C:\GIT\csharppg_projects\CopyingArraysIntoArrays\bin\Debug\net8.0\CopyingArraysIntoArrays.deps.json
+C:\GIT\csharppg_projects\CopyingArraysIntoArrays\bin\Debug\net8.0\CopyingArraysIntoArrays.runtimeconfig.json
+C:\GIT\csharppg_projects\CopyingArraysIntoArrays\bin\Debug\net8.0\CopyingArraysIntoArrays.dll
+C:\GIT\csharppg_projects\CopyingArraysIntoArrays\bin\Debug\net8.0\CopyingArraysIntoArrays.pdb
+C:\GIT\csharppg_projects\CopyingArraysIntoArrays\obj\Debug\net8.0\CopyingArraysIntoArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\CopyingArraysIntoArrays\obj\Debug\net8.0\CopyingArraysIntoArrays.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\CopyingArraysIntoArrays\obj\Debug\net8.0\CopyingArraysIntoArrays.AssemblyInfo.cs
+C:\GIT\csharppg_projects\CopyingArraysIntoArrays\obj\Debug\net8.0\CopyingArraysIntoArrays.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\CopyingArraysIntoArrays\obj\Debug\net8.0\CopyingArraysIntoArrays.sourcelink.json
+C:\GIT\csharppg_projects\CopyingArraysIntoArrays\obj\Debug\net8.0\CopyingArraysIntoArrays.dll
+C:\GIT\csharppg_projects\CopyingArraysIntoArrays\obj\Debug\net8.0\refint\CopyingArraysIntoArrays.dll
+C:\GIT\csharppg_projects\CopyingArraysIntoArrays\obj\Debug\net8.0\CopyingArraysIntoArrays.pdb
+C:\GIT\csharppg_projects\CopyingArraysIntoArrays\obj\Debug\net8.0\CopyingArraysIntoArrays.genruntimeconfig.cache
+C:\GIT\csharppg_projects\CopyingArraysIntoArrays\obj\Debug\net8.0\ref\CopyingArraysIntoArrays.dll

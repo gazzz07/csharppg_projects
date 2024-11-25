@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\WhileLoop\bin\Debug\net8.0\WhileLoop.exe
+C:\GIT\csharppg_projects\WhileLoop\bin\Debug\net8.0\WhileLoop.deps.json
+C:\GIT\csharppg_projects\WhileLoop\bin\Debug\net8.0\WhileLoop.runtimeconfig.json
+C:\GIT\csharppg_projects\WhileLoop\bin\Debug\net8.0\WhileLoop.dll
+C:\GIT\csharppg_projects\WhileLoop\bin\Debug\net8.0\WhileLoop.pdb
+C:\GIT\csharppg_projects\WhileLoop\obj\Debug\net8.0\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\WhileLoop\obj\Debug\net8.0\WhileLoop.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\WhileLoop\obj\Debug\net8.0\WhileLoop.AssemblyInfo.cs
+C:\GIT\csharppg_projects\WhileLoop\obj\Debug\net8.0\WhileLoop.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\WhileLoop\obj\Debug\net8.0\WhileLoop.sourcelink.json
+C:\GIT\csharppg_projects\WhileLoop\obj\Debug\net8.0\WhileLoop.dll
+C:\GIT\csharppg_projects\WhileLoop\obj\Debug\net8.0\refint\WhileLoop.dll
+C:\GIT\csharppg_projects\WhileLoop\obj\Debug\net8.0\WhileLoop.pdb
+C:\GIT\csharppg_projects\WhileLoop\obj\Debug\net8.0\WhileLoop.genruntimeconfig.cache
+C:\GIT\csharppg_projects\WhileLoop\obj\Debug\net8.0\ref\WhileLoop.dll

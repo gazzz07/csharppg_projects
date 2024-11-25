@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\MathsAndRemainders\bin\Debug\net8.0\MathsAndRemainders.exe
+C:\GIT\csharppg_projects\MathsAndRemainders\bin\Debug\net8.0\MathsAndRemainders.deps.json
+C:\GIT\csharppg_projects\MathsAndRemainders\bin\Debug\net8.0\MathsAndRemainders.runtimeconfig.json
+C:\GIT\csharppg_projects\MathsAndRemainders\bin\Debug\net8.0\MathsAndRemainders.dll
+C:\GIT\csharppg_projects\MathsAndRemainders\bin\Debug\net8.0\MathsAndRemainders.pdb
+C:\GIT\csharppg_projects\MathsAndRemainders\obj\Debug\net8.0\MathsAndRemainders.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\MathsAndRemainders\obj\Debug\net8.0\MathsAndRemainders.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\MathsAndRemainders\obj\Debug\net8.0\MathsAndRemainders.AssemblyInfo.cs
+C:\GIT\csharppg_projects\MathsAndRemainders\obj\Debug\net8.0\MathsAndRemainders.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\MathsAndRemainders\obj\Debug\net8.0\MathsAndRemainders.sourcelink.json
+C:\GIT\csharppg_projects\MathsAndRemainders\obj\Debug\net8.0\MathsAndRemainders.dll
+C:\GIT\csharppg_projects\MathsAndRemainders\obj\Debug\net8.0\refint\MathsAndRemainders.dll
+C:\GIT\csharppg_projects\MathsAndRemainders\obj\Debug\net8.0\MathsAndRemainders.pdb
+C:\GIT\csharppg_projects\MathsAndRemainders\obj\Debug\net8.0\MathsAndRemainders.genruntimeconfig.cache
+C:\GIT\csharppg_projects\MathsAndRemainders\obj\Debug\net8.0\ref\MathsAndRemainders.dll

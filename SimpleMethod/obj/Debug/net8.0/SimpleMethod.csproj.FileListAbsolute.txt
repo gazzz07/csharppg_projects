@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\SimpleMethod\bin\Debug\net8.0\SimpleMethod.exe
+C:\GIT\csharppg_projects\SimpleMethod\bin\Debug\net8.0\SimpleMethod.deps.json
+C:\GIT\csharppg_projects\SimpleMethod\bin\Debug\net8.0\SimpleMethod.runtimeconfig.json
+C:\GIT\csharppg_projects\SimpleMethod\bin\Debug\net8.0\SimpleMethod.dll
+C:\GIT\csharppg_projects\SimpleMethod\bin\Debug\net8.0\SimpleMethod.pdb
+C:\GIT\csharppg_projects\SimpleMethod\obj\Debug\net8.0\SimpleMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\SimpleMethod\obj\Debug\net8.0\SimpleMethod.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\SimpleMethod\obj\Debug\net8.0\SimpleMethod.AssemblyInfo.cs
+C:\GIT\csharppg_projects\SimpleMethod\obj\Debug\net8.0\SimpleMethod.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\SimpleMethod\obj\Debug\net8.0\SimpleMethod.sourcelink.json
+C:\GIT\csharppg_projects\SimpleMethod\obj\Debug\net8.0\SimpleMethod.dll
+C:\GIT\csharppg_projects\SimpleMethod\obj\Debug\net8.0\refint\SimpleMethod.dll
+C:\GIT\csharppg_projects\SimpleMethod\obj\Debug\net8.0\SimpleMethod.pdb
+C:\GIT\csharppg_projects\SimpleMethod\obj\Debug\net8.0\SimpleMethod.genruntimeconfig.cache
+C:\GIT\csharppg_projects\SimpleMethod\obj\Debug\net8.0\ref\SimpleMethod.dll
