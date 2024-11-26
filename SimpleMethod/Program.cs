@@ -6,3 +6,5 @@ static int AskForNumber(string text)
     int result = Convert.ToInt32(Console.ReadLine());
     return result;
 }
+
+//Comment for inital git commit
