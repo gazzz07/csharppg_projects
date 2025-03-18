@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\12_RepairingTheClocktower\bin\Debug\net9.0\12_RepairingTheClocktower.exe
+C:\GIT\csharppg_projects\12_RepairingTheClocktower\bin\Debug\net9.0\12_RepairingTheClocktower.deps.json
+C:\GIT\csharppg_projects\12_RepairingTheClocktower\bin\Debug\net9.0\12_RepairingTheClocktower.runtimeconfig.json
+C:\GIT\csharppg_projects\12_RepairingTheClocktower\bin\Debug\net9.0\12_RepairingTheClocktower.dll
+C:\GIT\csharppg_projects\12_RepairingTheClocktower\bin\Debug\net9.0\12_RepairingTheClocktower.pdb
+C:\GIT\csharppg_projects\12_RepairingTheClocktower\obj\Debug\net9.0\12_RepairingTheClocktower.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\12_RepairingTheClocktower\obj\Debug\net9.0\12_RepairingTheClocktower.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\12_RepairingTheClocktower\obj\Debug\net9.0\12_RepairingTheClocktower.AssemblyInfo.cs
+C:\GIT\csharppg_projects\12_RepairingTheClocktower\obj\Debug\net9.0\12_RepairingTheClocktower.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\12_RepairingTheClocktower\obj\Debug\net9.0\12_RepairingTheClocktower.sourcelink.json
+C:\GIT\csharppg_projects\12_RepairingTheClocktower\obj\Debug\net9.0\12_RepairingTheClocktower.dll
+C:\GIT\csharppg_projects\12_RepairingTheClocktower\obj\Debug\net9.0\refint\12_RepairingTheClocktower.dll
+C:\GIT\csharppg_projects\12_RepairingTheClocktower\obj\Debug\net9.0\12_RepairingTheClocktower.pdb
+C:\GIT\csharppg_projects\12_RepairingTheClocktower\obj\Debug\net9.0\12_RepairingTheClocktower.genruntimeconfig.cache
+C:\GIT\csharppg_projects\12_RepairingTheClocktower\obj\Debug\net9.0\ref\12_RepairingTheClocktower.dll

@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\ConsolasAndTelim\bin\Debug\net9.0\ConsolasAndTelim.exe
+C:\GIT\csharppg_projects\ConsolasAndTelim\bin\Debug\net9.0\ConsolasAndTelim.deps.json
+C:\GIT\csharppg_projects\ConsolasAndTelim\bin\Debug\net9.0\ConsolasAndTelim.runtimeconfig.json
+C:\GIT\csharppg_projects\ConsolasAndTelim\bin\Debug\net9.0\ConsolasAndTelim.dll
+C:\GIT\csharppg_projects\ConsolasAndTelim\bin\Debug\net9.0\ConsolasAndTelim.pdb
+C:\GIT\csharppg_projects\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.AssemblyInfo.cs
+C:\GIT\csharppg_projects\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.sourcelink.json
+C:\GIT\csharppg_projects\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.dll
+C:\GIT\csharppg_projects\ConsolasAndTelim\obj\Debug\net9.0\refint\ConsolasAndTelim.dll
+C:\GIT\csharppg_projects\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.pdb
+C:\GIT\csharppg_projects\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.genruntimeconfig.cache
+C:\GIT\csharppg_projects\ConsolasAndTelim\obj\Debug\net9.0\ref\ConsolasAndTelim.dll

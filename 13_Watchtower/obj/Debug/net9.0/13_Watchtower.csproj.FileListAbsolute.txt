@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\13_Watchtower\bin\Debug\net9.0\13_Watchtower.exe
+C:\GIT\csharppg_projects\13_Watchtower\bin\Debug\net9.0\13_Watchtower.deps.json
+C:\GIT\csharppg_projects\13_Watchtower\bin\Debug\net9.0\13_Watchtower.runtimeconfig.json
+C:\GIT\csharppg_projects\13_Watchtower\bin\Debug\net9.0\13_Watchtower.dll
+C:\GIT\csharppg_projects\13_Watchtower\bin\Debug\net9.0\13_Watchtower.pdb
+C:\GIT\csharppg_projects\13_Watchtower\obj\Debug\net9.0\13_Watchtower.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\13_Watchtower\obj\Debug\net9.0\13_Watchtower.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\13_Watchtower\obj\Debug\net9.0\13_Watchtower.AssemblyInfo.cs
+C:\GIT\csharppg_projects\13_Watchtower\obj\Debug\net9.0\13_Watchtower.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\13_Watchtower\obj\Debug\net9.0\13_Watchtower.sourcelink.json
+C:\GIT\csharppg_projects\13_Watchtower\obj\Debug\net9.0\13_Watchtower.dll
+C:\GIT\csharppg_projects\13_Watchtower\obj\Debug\net9.0\refint\13_Watchtower.dll
+C:\GIT\csharppg_projects\13_Watchtower\obj\Debug\net9.0\13_Watchtower.pdb
+C:\GIT\csharppg_projects\13_Watchtower\obj\Debug\net9.0\13_Watchtower.genruntimeconfig.cache
+C:\GIT\csharppg_projects\13_Watchtower\obj\Debug\net9.0\ref\13_Watchtower.dll

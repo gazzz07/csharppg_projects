@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\5_TheThingNamer3000\bin\Debug\net9.0\5_TheThingNamer3000.exe
+C:\GIT\csharppg_projects\5_TheThingNamer3000\bin\Debug\net9.0\5_TheThingNamer3000.deps.json
+C:\GIT\csharppg_projects\5_TheThingNamer3000\bin\Debug\net9.0\5_TheThingNamer3000.runtimeconfig.json
+C:\GIT\csharppg_projects\5_TheThingNamer3000\bin\Debug\net9.0\5_TheThingNamer3000.dll
+C:\GIT\csharppg_projects\5_TheThingNamer3000\bin\Debug\net9.0\5_TheThingNamer3000.pdb
+C:\GIT\csharppg_projects\5_TheThingNamer3000\obj\Debug\net9.0\5_TheThingNamer3000.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\5_TheThingNamer3000\obj\Debug\net9.0\5_TheThingNamer3000.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\5_TheThingNamer3000\obj\Debug\net9.0\5_TheThingNamer3000.AssemblyInfo.cs
+C:\GIT\csharppg_projects\5_TheThingNamer3000\obj\Debug\net9.0\5_TheThingNamer3000.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\5_TheThingNamer3000\obj\Debug\net9.0\5_TheThingNamer3000.sourcelink.json
+C:\GIT\csharppg_projects\5_TheThingNamer3000\obj\Debug\net9.0\5_TheThingNamer3000.dll
+C:\GIT\csharppg_projects\5_TheThingNamer3000\obj\Debug\net9.0\refint\5_TheThingNamer3000.dll
+C:\GIT\csharppg_projects\5_TheThingNamer3000\obj\Debug\net9.0\5_TheThingNamer3000.pdb
+C:\GIT\csharppg_projects\5_TheThingNamer3000\obj\Debug\net9.0\5_TheThingNamer3000.genruntimeconfig.cache
+C:\GIT\csharppg_projects\5_TheThingNamer3000\obj\Debug\net9.0\ref\5_TheThingNamer3000.dll

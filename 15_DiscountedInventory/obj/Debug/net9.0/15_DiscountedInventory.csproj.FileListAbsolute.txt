@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\15_DiscountedInventory\bin\Debug\net9.0\15_DiscountedInventory.exe
+C:\GIT\csharppg_projects\15_DiscountedInventory\bin\Debug\net9.0\15_DiscountedInventory.deps.json
+C:\GIT\csharppg_projects\15_DiscountedInventory\bin\Debug\net9.0\15_DiscountedInventory.runtimeconfig.json
+C:\GIT\csharppg_projects\15_DiscountedInventory\bin\Debug\net9.0\15_DiscountedInventory.dll
+C:\GIT\csharppg_projects\15_DiscountedInventory\bin\Debug\net9.0\15_DiscountedInventory.pdb
+C:\GIT\csharppg_projects\15_DiscountedInventory\obj\Debug\net9.0\15_DiscountedInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\15_DiscountedInventory\obj\Debug\net9.0\15_DiscountedInventory.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\15_DiscountedInventory\obj\Debug\net9.0\15_DiscountedInventory.AssemblyInfo.cs
+C:\GIT\csharppg_projects\15_DiscountedInventory\obj\Debug\net9.0\15_DiscountedInventory.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\15_DiscountedInventory\obj\Debug\net9.0\15_DiscountedInventory.sourcelink.json
+C:\GIT\csharppg_projects\15_DiscountedInventory\obj\Debug\net9.0\15_DiscountedInventory.dll
+C:\GIT\csharppg_projects\15_DiscountedInventory\obj\Debug\net9.0\refint\15_DiscountedInventory.dll
+C:\GIT\csharppg_projects\15_DiscountedInventory\obj\Debug\net9.0\15_DiscountedInventory.pdb
+C:\GIT\csharppg_projects\15_DiscountedInventory\obj\Debug\net9.0\15_DiscountedInventory.genruntimeconfig.cache
+C:\GIT\csharppg_projects\15_DiscountedInventory\obj\Debug\net9.0\ref\15_DiscountedInventory.dll

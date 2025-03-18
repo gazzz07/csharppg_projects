@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\3_TheMakingsOfAProgrammer\bin\Debug\net9.0\3_TheMakingsOfAProgrammer.exe
+C:\GIT\csharppg_projects\3_TheMakingsOfAProgrammer\bin\Debug\net9.0\3_TheMakingsOfAProgrammer.deps.json
+C:\GIT\csharppg_projects\3_TheMakingsOfAProgrammer\bin\Debug\net9.0\3_TheMakingsOfAProgrammer.runtimeconfig.json
+C:\GIT\csharppg_projects\3_TheMakingsOfAProgrammer\bin\Debug\net9.0\3_TheMakingsOfAProgrammer.dll
+C:\GIT\csharppg_projects\3_TheMakingsOfAProgrammer\bin\Debug\net9.0\3_TheMakingsOfAProgrammer.pdb
+C:\GIT\csharppg_projects\3_TheMakingsOfAProgrammer\obj\Debug\net9.0\3_TheMakingsOfAProgrammer.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\3_TheMakingsOfAProgrammer\obj\Debug\net9.0\3_TheMakingsOfAProgrammer.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\3_TheMakingsOfAProgrammer\obj\Debug\net9.0\3_TheMakingsOfAProgrammer.AssemblyInfo.cs
+C:\GIT\csharppg_projects\3_TheMakingsOfAProgrammer\obj\Debug\net9.0\3_TheMakingsOfAProgrammer.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\3_TheMakingsOfAProgrammer\obj\Debug\net9.0\3_TheMakingsOfAProgrammer.sourcelink.json
+C:\GIT\csharppg_projects\3_TheMakingsOfAProgrammer\obj\Debug\net9.0\3_TheMakingsOfAProgrammer.dll
+C:\GIT\csharppg_projects\3_TheMakingsOfAProgrammer\obj\Debug\net9.0\refint\3_TheMakingsOfAProgrammer.dll
+C:\GIT\csharppg_projects\3_TheMakingsOfAProgrammer\obj\Debug\net9.0\3_TheMakingsOfAProgrammer.pdb
+C:\GIT\csharppg_projects\3_TheMakingsOfAProgrammer\obj\Debug\net9.0\3_TheMakingsOfAProgrammer.genruntimeconfig.cache
+C:\GIT\csharppg_projects\3_TheMakingsOfAProgrammer\obj\Debug\net9.0\ref\3_TheMakingsOfAProgrammer.dll

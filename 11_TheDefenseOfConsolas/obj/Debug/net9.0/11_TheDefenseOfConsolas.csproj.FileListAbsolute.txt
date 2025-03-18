@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\11_TheDefenseOfConsolas\bin\Debug\net9.0\11_TheDefenseOfConsolas.exe
+C:\GIT\csharppg_projects\11_TheDefenseOfConsolas\bin\Debug\net9.0\11_TheDefenseOfConsolas.deps.json
+C:\GIT\csharppg_projects\11_TheDefenseOfConsolas\bin\Debug\net9.0\11_TheDefenseOfConsolas.runtimeconfig.json
+C:\GIT\csharppg_projects\11_TheDefenseOfConsolas\bin\Debug\net9.0\11_TheDefenseOfConsolas.dll
+C:\GIT\csharppg_projects\11_TheDefenseOfConsolas\bin\Debug\net9.0\11_TheDefenseOfConsolas.pdb
+C:\GIT\csharppg_projects\11_TheDefenseOfConsolas\obj\Debug\net9.0\11_TheDefenseOfConsolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\11_TheDefenseOfConsolas\obj\Debug\net9.0\11_TheDefenseOfConsolas.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\11_TheDefenseOfConsolas\obj\Debug\net9.0\11_TheDefenseOfConsolas.AssemblyInfo.cs
+C:\GIT\csharppg_projects\11_TheDefenseOfConsolas\obj\Debug\net9.0\11_TheDefenseOfConsolas.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\11_TheDefenseOfConsolas\obj\Debug\net9.0\11_TheDefenseOfConsolas.sourcelink.json
+C:\GIT\csharppg_projects\11_TheDefenseOfConsolas\obj\Debug\net9.0\11_TheDefenseOfConsolas.dll
+C:\GIT\csharppg_projects\11_TheDefenseOfConsolas\obj\Debug\net9.0\refint\11_TheDefenseOfConsolas.dll
+C:\GIT\csharppg_projects\11_TheDefenseOfConsolas\obj\Debug\net9.0\11_TheDefenseOfConsolas.pdb
+C:\GIT\csharppg_projects\11_TheDefenseOfConsolas\obj\Debug\net9.0\11_TheDefenseOfConsolas.genruntimeconfig.cache
+C:\GIT\csharppg_projects\11_TheDefenseOfConsolas\obj\Debug\net9.0\ref\11_TheDefenseOfConsolas.dll

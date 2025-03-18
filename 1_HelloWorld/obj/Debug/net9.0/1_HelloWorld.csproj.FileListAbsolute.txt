@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\1_HelloWorld\bin\Debug\net9.0\1_HelloWorld.exe
+C:\GIT\csharppg_projects\1_HelloWorld\bin\Debug\net9.0\1_HelloWorld.deps.json
+C:\GIT\csharppg_projects\1_HelloWorld\bin\Debug\net9.0\1_HelloWorld.runtimeconfig.json
+C:\GIT\csharppg_projects\1_HelloWorld\bin\Debug\net9.0\1_HelloWorld.dll
+C:\GIT\csharppg_projects\1_HelloWorld\bin\Debug\net9.0\1_HelloWorld.pdb
+C:\GIT\csharppg_projects\1_HelloWorld\obj\Debug\net9.0\1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\1_HelloWorld\obj\Debug\net9.0\1_HelloWorld.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\1_HelloWorld\obj\Debug\net9.0\1_HelloWorld.AssemblyInfo.cs
+C:\GIT\csharppg_projects\1_HelloWorld\obj\Debug\net9.0\1_HelloWorld.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\1_HelloWorld\obj\Debug\net9.0\1_HelloWorld.sourcelink.json
+C:\GIT\csharppg_projects\1_HelloWorld\obj\Debug\net9.0\1_HelloWorld.dll
+C:\GIT\csharppg_projects\1_HelloWorld\obj\Debug\net9.0\refint\1_HelloWorld.dll
+C:\GIT\csharppg_projects\1_HelloWorld\obj\Debug\net9.0\1_HelloWorld.pdb
+C:\GIT\csharppg_projects\1_HelloWorld\obj\Debug\net9.0\1_HelloWorld.genruntimeconfig.cache
+C:\GIT\csharppg_projects\1_HelloWorld\obj\Debug\net9.0\ref\1_HelloWorld.dll

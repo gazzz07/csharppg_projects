@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\8_TheTriangleFarmer\bin\Debug\net9.0\8_TheTriangleFarmer.exe
+C:\GIT\csharppg_projects\8_TheTriangleFarmer\bin\Debug\net9.0\8_TheTriangleFarmer.deps.json
+C:\GIT\csharppg_projects\8_TheTriangleFarmer\bin\Debug\net9.0\8_TheTriangleFarmer.runtimeconfig.json
+C:\GIT\csharppg_projects\8_TheTriangleFarmer\bin\Debug\net9.0\8_TheTriangleFarmer.dll
+C:\GIT\csharppg_projects\8_TheTriangleFarmer\bin\Debug\net9.0\8_TheTriangleFarmer.pdb
+C:\GIT\csharppg_projects\8_TheTriangleFarmer\obj\Debug\net9.0\8_TheTriangleFarmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\8_TheTriangleFarmer\obj\Debug\net9.0\8_TheTriangleFarmer.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\8_TheTriangleFarmer\obj\Debug\net9.0\8_TheTriangleFarmer.AssemblyInfo.cs
+C:\GIT\csharppg_projects\8_TheTriangleFarmer\obj\Debug\net9.0\8_TheTriangleFarmer.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\8_TheTriangleFarmer\obj\Debug\net9.0\8_TheTriangleFarmer.sourcelink.json
+C:\GIT\csharppg_projects\8_TheTriangleFarmer\obj\Debug\net9.0\8_TheTriangleFarmer.dll
+C:\GIT\csharppg_projects\8_TheTriangleFarmer\obj\Debug\net9.0\refint\8_TheTriangleFarmer.dll
+C:\GIT\csharppg_projects\8_TheTriangleFarmer\obj\Debug\net9.0\8_TheTriangleFarmer.pdb
+C:\GIT\csharppg_projects\8_TheTriangleFarmer\obj\Debug\net9.0\8_TheTriangleFarmer.genruntimeconfig.cache
+C:\GIT\csharppg_projects\8_TheTriangleFarmer\obj\Debug\net9.0\ref\8_TheTriangleFarmer.dll

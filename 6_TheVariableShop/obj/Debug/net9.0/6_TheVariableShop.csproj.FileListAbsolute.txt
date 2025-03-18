@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\6_TheVariableShop\bin\Debug\net9.0\6_TheVariableShop.exe
+C:\GIT\csharppg_projects\6_TheVariableShop\bin\Debug\net9.0\6_TheVariableShop.deps.json
+C:\GIT\csharppg_projects\6_TheVariableShop\bin\Debug\net9.0\6_TheVariableShop.runtimeconfig.json
+C:\GIT\csharppg_projects\6_TheVariableShop\bin\Debug\net9.0\6_TheVariableShop.dll
+C:\GIT\csharppg_projects\6_TheVariableShop\bin\Debug\net9.0\6_TheVariableShop.pdb
+C:\GIT\csharppg_projects\6_TheVariableShop\obj\Debug\net9.0\6_TheVariableShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\6_TheVariableShop\obj\Debug\net9.0\6_TheVariableShop.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\6_TheVariableShop\obj\Debug\net9.0\6_TheVariableShop.AssemblyInfo.cs
+C:\GIT\csharppg_projects\6_TheVariableShop\obj\Debug\net9.0\6_TheVariableShop.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\6_TheVariableShop\obj\Debug\net9.0\6_TheVariableShop.sourcelink.json
+C:\GIT\csharppg_projects\6_TheVariableShop\obj\Debug\net9.0\6_TheVariableShop.dll
+C:\GIT\csharppg_projects\6_TheVariableShop\obj\Debug\net9.0\refint\6_TheVariableShop.dll
+C:\GIT\csharppg_projects\6_TheVariableShop\obj\Debug\net9.0\6_TheVariableShop.pdb
+C:\GIT\csharppg_projects\6_TheVariableShop\obj\Debug\net9.0\6_TheVariableShop.genruntimeconfig.cache
+C:\GIT\csharppg_projects\6_TheVariableShop\obj\Debug\net9.0\ref\6_TheVariableShop.dll

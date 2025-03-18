@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\14_BuyingInventory\bin\Debug\net9.0\14_BuyingInventory.exe
+C:\GIT\csharppg_projects\14_BuyingInventory\bin\Debug\net9.0\14_BuyingInventory.deps.json
+C:\GIT\csharppg_projects\14_BuyingInventory\bin\Debug\net9.0\14_BuyingInventory.runtimeconfig.json
+C:\GIT\csharppg_projects\14_BuyingInventory\bin\Debug\net9.0\14_BuyingInventory.dll
+C:\GIT\csharppg_projects\14_BuyingInventory\bin\Debug\net9.0\14_BuyingInventory.pdb
+C:\GIT\csharppg_projects\14_BuyingInventory\obj\Debug\net9.0\14_BuyingInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\14_BuyingInventory\obj\Debug\net9.0\14_BuyingInventory.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\14_BuyingInventory\obj\Debug\net9.0\14_BuyingInventory.AssemblyInfo.cs
+C:\GIT\csharppg_projects\14_BuyingInventory\obj\Debug\net9.0\14_BuyingInventory.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\14_BuyingInventory\obj\Debug\net9.0\14_BuyingInventory.sourcelink.json
+C:\GIT\csharppg_projects\14_BuyingInventory\obj\Debug\net9.0\14_BuyingInventory.dll
+C:\GIT\csharppg_projects\14_BuyingInventory\obj\Debug\net9.0\refint\14_BuyingInventory.dll
+C:\GIT\csharppg_projects\14_BuyingInventory\obj\Debug\net9.0\14_BuyingInventory.pdb
+C:\GIT\csharppg_projects\14_BuyingInventory\obj\Debug\net9.0\14_BuyingInventory.genruntimeconfig.cache
+C:\GIT\csharppg_projects\14_BuyingInventory\obj\Debug\net9.0\ref\14_BuyingInventory.dll

@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\9_TheFourSistersAndTheDuckbear\bin\Debug\net9.0\9_TheFourSistersAndTheDuckbear.exe
+C:\GIT\csharppg_projects\9_TheFourSistersAndTheDuckbear\bin\Debug\net9.0\9_TheFourSistersAndTheDuckbear.deps.json
+C:\GIT\csharppg_projects\9_TheFourSistersAndTheDuckbear\bin\Debug\net9.0\9_TheFourSistersAndTheDuckbear.runtimeconfig.json
+C:\GIT\csharppg_projects\9_TheFourSistersAndTheDuckbear\bin\Debug\net9.0\9_TheFourSistersAndTheDuckbear.dll
+C:\GIT\csharppg_projects\9_TheFourSistersAndTheDuckbear\bin\Debug\net9.0\9_TheFourSistersAndTheDuckbear.pdb
+C:\GIT\csharppg_projects\9_TheFourSistersAndTheDuckbear\obj\Debug\net9.0\9_TheFourSistersAndTheDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\9_TheFourSistersAndTheDuckbear\obj\Debug\net9.0\9_TheFourSistersAndTheDuckbear.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\9_TheFourSistersAndTheDuckbear\obj\Debug\net9.0\9_TheFourSistersAndTheDuckbear.AssemblyInfo.cs
+C:\GIT\csharppg_projects\9_TheFourSistersAndTheDuckbear\obj\Debug\net9.0\9_TheFourSistersAndTheDuckbear.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\9_TheFourSistersAndTheDuckbear\obj\Debug\net9.0\9_TheFourSistersAndTheDuckbear.sourcelink.json
+C:\GIT\csharppg_projects\9_TheFourSistersAndTheDuckbear\obj\Debug\net9.0\9_TheFourSistersAndTheDuckbear.dll
+C:\GIT\csharppg_projects\9_TheFourSistersAndTheDuckbear\obj\Debug\net9.0\refint\9_TheFourSistersAndTheDuckbear.dll
+C:\GIT\csharppg_projects\9_TheFourSistersAndTheDuckbear\obj\Debug\net9.0\9_TheFourSistersAndTheDuckbear.pdb
+C:\GIT\csharppg_projects\9_TheFourSistersAndTheDuckbear\obj\Debug\net9.0\9_TheFourSistersAndTheDuckbear.genruntimeconfig.cache
+C:\GIT\csharppg_projects\9_TheFourSistersAndTheDuckbear\obj\Debug\net9.0\ref\9_TheFourSistersAndTheDuckbear.dll

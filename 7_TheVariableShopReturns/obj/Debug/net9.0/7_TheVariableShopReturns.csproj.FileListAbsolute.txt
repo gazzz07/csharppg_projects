@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\7_TheVariableShopReturns\bin\Debug\net9.0\7_TheVariableShopReturns.exe
+C:\GIT\csharppg_projects\7_TheVariableShopReturns\bin\Debug\net9.0\7_TheVariableShopReturns.deps.json
+C:\GIT\csharppg_projects\7_TheVariableShopReturns\bin\Debug\net9.0\7_TheVariableShopReturns.runtimeconfig.json
+C:\GIT\csharppg_projects\7_TheVariableShopReturns\bin\Debug\net9.0\7_TheVariableShopReturns.dll
+C:\GIT\csharppg_projects\7_TheVariableShopReturns\bin\Debug\net9.0\7_TheVariableShopReturns.pdb
+C:\GIT\csharppg_projects\7_TheVariableShopReturns\obj\Debug\net9.0\7_TheVariableShopReturns.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\7_TheVariableShopReturns\obj\Debug\net9.0\7_TheVariableShopReturns.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\7_TheVariableShopReturns\obj\Debug\net9.0\7_TheVariableShopReturns.AssemblyInfo.cs
+C:\GIT\csharppg_projects\7_TheVariableShopReturns\obj\Debug\net9.0\7_TheVariableShopReturns.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\7_TheVariableShopReturns\obj\Debug\net9.0\7_TheVariableShopReturns.sourcelink.json
+C:\GIT\csharppg_projects\7_TheVariableShopReturns\obj\Debug\net9.0\7_TheVariableShopReturns.dll
+C:\GIT\csharppg_projects\7_TheVariableShopReturns\obj\Debug\net9.0\refint\7_TheVariableShopReturns.dll
+C:\GIT\csharppg_projects\7_TheVariableShopReturns\obj\Debug\net9.0\7_TheVariableShopReturns.pdb
+C:\GIT\csharppg_projects\7_TheVariableShopReturns\obj\Debug\net9.0\7_TheVariableShopReturns.genruntimeconfig.cache
+C:\GIT\csharppg_projects\7_TheVariableShopReturns\obj\Debug\net9.0\ref\7_TheVariableShopReturns.dll

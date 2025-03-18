@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\2_WhatComesNext\bin\Debug\net9.0\2_WhatComesNext.exe
+C:\GIT\csharppg_projects\2_WhatComesNext\bin\Debug\net9.0\2_WhatComesNext.deps.json
+C:\GIT\csharppg_projects\2_WhatComesNext\bin\Debug\net9.0\2_WhatComesNext.runtimeconfig.json
+C:\GIT\csharppg_projects\2_WhatComesNext\bin\Debug\net9.0\2_WhatComesNext.dll
+C:\GIT\csharppg_projects\2_WhatComesNext\bin\Debug\net9.0\2_WhatComesNext.pdb
+C:\GIT\csharppg_projects\2_WhatComesNext\obj\Debug\net9.0\2_WhatComesNext.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\2_WhatComesNext\obj\Debug\net9.0\2_WhatComesNext.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\2_WhatComesNext\obj\Debug\net9.0\2_WhatComesNext.AssemblyInfo.cs
+C:\GIT\csharppg_projects\2_WhatComesNext\obj\Debug\net9.0\2_WhatComesNext.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\2_WhatComesNext\obj\Debug\net9.0\2_WhatComesNext.sourcelink.json
+C:\GIT\csharppg_projects\2_WhatComesNext\obj\Debug\net9.0\2_WhatComesNext.dll
+C:\GIT\csharppg_projects\2_WhatComesNext\obj\Debug\net9.0\refint\2_WhatComesNext.dll
+C:\GIT\csharppg_projects\2_WhatComesNext\obj\Debug\net9.0\2_WhatComesNext.pdb
+C:\GIT\csharppg_projects\2_WhatComesNext\obj\Debug\net9.0\2_WhatComesNext.genruntimeconfig.cache
+C:\GIT\csharppg_projects\2_WhatComesNext\obj\Debug\net9.0\ref\2_WhatComesNext.dll

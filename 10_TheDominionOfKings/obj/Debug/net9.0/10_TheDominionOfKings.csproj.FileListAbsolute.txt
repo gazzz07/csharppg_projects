@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\10_TheDominionOfKings\bin\Debug\net9.0\10_TheDominionOfKings.exe
+C:\GIT\csharppg_projects\10_TheDominionOfKings\bin\Debug\net9.0\10_TheDominionOfKings.deps.json
+C:\GIT\csharppg_projects\10_TheDominionOfKings\bin\Debug\net9.0\10_TheDominionOfKings.runtimeconfig.json
+C:\GIT\csharppg_projects\10_TheDominionOfKings\bin\Debug\net9.0\10_TheDominionOfKings.dll
+C:\GIT\csharppg_projects\10_TheDominionOfKings\bin\Debug\net9.0\10_TheDominionOfKings.pdb
+C:\GIT\csharppg_projects\10_TheDominionOfKings\obj\Debug\net9.0\10_TheDominionOfKings.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\10_TheDominionOfKings\obj\Debug\net9.0\10_TheDominionOfKings.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\10_TheDominionOfKings\obj\Debug\net9.0\10_TheDominionOfKings.AssemblyInfo.cs
+C:\GIT\csharppg_projects\10_TheDominionOfKings\obj\Debug\net9.0\10_TheDominionOfKings.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\10_TheDominionOfKings\obj\Debug\net9.0\10_TheDominionOfKings.sourcelink.json
+C:\GIT\csharppg_projects\10_TheDominionOfKings\obj\Debug\net9.0\10_TheDominionOfKings.dll
+C:\GIT\csharppg_projects\10_TheDominionOfKings\obj\Debug\net9.0\refint\10_TheDominionOfKings.dll
+C:\GIT\csharppg_projects\10_TheDominionOfKings\obj\Debug\net9.0\10_TheDominionOfKings.pdb
+C:\GIT\csharppg_projects\10_TheDominionOfKings\obj\Debug\net9.0\10_TheDominionOfKings.genruntimeconfig.cache
+C:\GIT\csharppg_projects\10_TheDominionOfKings\obj\Debug\net9.0\ref\10_TheDominionOfKings.dll

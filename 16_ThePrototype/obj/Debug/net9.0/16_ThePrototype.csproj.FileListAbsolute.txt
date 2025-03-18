@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\16_ThePrototype\bin\Debug\net9.0\16_ThePrototype.exe
+C:\GIT\csharppg_projects\16_ThePrototype\bin\Debug\net9.0\16_ThePrototype.deps.json
+C:\GIT\csharppg_projects\16_ThePrototype\bin\Debug\net9.0\16_ThePrototype.runtimeconfig.json
+C:\GIT\csharppg_projects\16_ThePrototype\bin\Debug\net9.0\16_ThePrototype.dll
+C:\GIT\csharppg_projects\16_ThePrototype\bin\Debug\net9.0\16_ThePrototype.pdb
+C:\GIT\csharppg_projects\16_ThePrototype\obj\Debug\net9.0\16_ThePrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\16_ThePrototype\obj\Debug\net9.0\16_ThePrototype.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\16_ThePrototype\obj\Debug\net9.0\16_ThePrototype.AssemblyInfo.cs
+C:\GIT\csharppg_projects\16_ThePrototype\obj\Debug\net9.0\16_ThePrototype.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\16_ThePrototype\obj\Debug\net9.0\16_ThePrototype.sourcelink.json
+C:\GIT\csharppg_projects\16_ThePrototype\obj\Debug\net9.0\16_ThePrototype.dll
+C:\GIT\csharppg_projects\16_ThePrototype\obj\Debug\net9.0\refint\16_ThePrototype.dll
+C:\GIT\csharppg_projects\16_ThePrototype\obj\Debug\net9.0\16_ThePrototype.pdb
+C:\GIT\csharppg_projects\16_ThePrototype\obj\Debug\net9.0\16_ThePrototype.genruntimeconfig.cache
+C:\GIT\csharppg_projects\16_ThePrototype\obj\Debug\net9.0\ref\16_ThePrototype.dll
