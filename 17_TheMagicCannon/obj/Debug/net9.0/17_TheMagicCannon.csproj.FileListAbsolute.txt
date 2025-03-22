@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\17_TheMagicCannon\bin\Debug\net9.0\17_TheMagicCannon.exe
+C:\GIT\csharppg_projects\17_TheMagicCannon\bin\Debug\net9.0\17_TheMagicCannon.deps.json
+C:\GIT\csharppg_projects\17_TheMagicCannon\bin\Debug\net9.0\17_TheMagicCannon.runtimeconfig.json
+C:\GIT\csharppg_projects\17_TheMagicCannon\bin\Debug\net9.0\17_TheMagicCannon.dll
+C:\GIT\csharppg_projects\17_TheMagicCannon\bin\Debug\net9.0\17_TheMagicCannon.pdb
+C:\GIT\csharppg_projects\17_TheMagicCannon\obj\Debug\net9.0\17_TheMagicCannon.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\17_TheMagicCannon\obj\Debug\net9.0\17_TheMagicCannon.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\17_TheMagicCannon\obj\Debug\net9.0\17_TheMagicCannon.AssemblyInfo.cs
+C:\GIT\csharppg_projects\17_TheMagicCannon\obj\Debug\net9.0\17_TheMagicCannon.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\17_TheMagicCannon\obj\Debug\net9.0\17_TheMagicCannon.sourcelink.json
+C:\GIT\csharppg_projects\17_TheMagicCannon\obj\Debug\net9.0\17_TheMagicCannon.dll
+C:\GIT\csharppg_projects\17_TheMagicCannon\obj\Debug\net9.0\refint\17_TheMagicCannon.dll
+C:\GIT\csharppg_projects\17_TheMagicCannon\obj\Debug\net9.0\17_TheMagicCannon.pdb
+C:\GIT\csharppg_projects\17_TheMagicCannon\obj\Debug\net9.0\17_TheMagicCannon.genruntimeconfig.cache
+C:\GIT\csharppg_projects\17_TheMagicCannon\obj\Debug\net9.0\ref\17_TheMagicCannon.dll

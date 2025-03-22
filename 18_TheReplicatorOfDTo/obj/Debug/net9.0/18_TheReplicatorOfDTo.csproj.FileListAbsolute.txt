@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\18_TheReplicatorOfDTo\bin\Debug\net9.0\18_TheReplicatorOfDTo.exe
+C:\GIT\csharppg_projects\18_TheReplicatorOfDTo\bin\Debug\net9.0\18_TheReplicatorOfDTo.deps.json
+C:\GIT\csharppg_projects\18_TheReplicatorOfDTo\bin\Debug\net9.0\18_TheReplicatorOfDTo.runtimeconfig.json
+C:\GIT\csharppg_projects\18_TheReplicatorOfDTo\bin\Debug\net9.0\18_TheReplicatorOfDTo.dll
+C:\GIT\csharppg_projects\18_TheReplicatorOfDTo\bin\Debug\net9.0\18_TheReplicatorOfDTo.pdb
+C:\GIT\csharppg_projects\18_TheReplicatorOfDTo\obj\Debug\net9.0\18_TheReplicatorOfDTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\18_TheReplicatorOfDTo\obj\Debug\net9.0\18_TheReplicatorOfDTo.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\18_TheReplicatorOfDTo\obj\Debug\net9.0\18_TheReplicatorOfDTo.AssemblyInfo.cs
+C:\GIT\csharppg_projects\18_TheReplicatorOfDTo\obj\Debug\net9.0\18_TheReplicatorOfDTo.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\18_TheReplicatorOfDTo\obj\Debug\net9.0\18_TheReplicatorOfDTo.sourcelink.json
+C:\GIT\csharppg_projects\18_TheReplicatorOfDTo\obj\Debug\net9.0\18_TheReplicatorOfDTo.dll
+C:\GIT\csharppg_projects\18_TheReplicatorOfDTo\obj\Debug\net9.0\refint\18_TheReplicatorOfDTo.dll
+C:\GIT\csharppg_projects\18_TheReplicatorOfDTo\obj\Debug\net9.0\18_TheReplicatorOfDTo.pdb
+C:\GIT\csharppg_projects\18_TheReplicatorOfDTo\obj\Debug\net9.0\18_TheReplicatorOfDTo.genruntimeconfig.cache
+C:\GIT\csharppg_projects\18_TheReplicatorOfDTo\obj\Debug\net9.0\ref\18_TheReplicatorOfDTo.dll

@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\21_Countdown\bin\Debug\net9.0\21_Countdown.exe
+C:\GIT\csharppg_projects\21_Countdown\bin\Debug\net9.0\21_Countdown.deps.json
+C:\GIT\csharppg_projects\21_Countdown\bin\Debug\net9.0\21_Countdown.runtimeconfig.json
+C:\GIT\csharppg_projects\21_Countdown\bin\Debug\net9.0\21_Countdown.dll
+C:\GIT\csharppg_projects\21_Countdown\bin\Debug\net9.0\21_Countdown.pdb
+C:\GIT\csharppg_projects\21_Countdown\obj\Debug\net9.0\21_Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\21_Countdown\obj\Debug\net9.0\21_Countdown.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\21_Countdown\obj\Debug\net9.0\21_Countdown.AssemblyInfo.cs
+C:\GIT\csharppg_projects\21_Countdown\obj\Debug\net9.0\21_Countdown.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\21_Countdown\obj\Debug\net9.0\21_Countdown.sourcelink.json
+C:\GIT\csharppg_projects\21_Countdown\obj\Debug\net9.0\21_Countdown.dll
+C:\GIT\csharppg_projects\21_Countdown\obj\Debug\net9.0\refint\21_Countdown.dll
+C:\GIT\csharppg_projects\21_Countdown\obj\Debug\net9.0\21_Countdown.pdb
+C:\GIT\csharppg_projects\21_Countdown\obj\Debug\net9.0\21_Countdown.genruntimeconfig.cache
+C:\GIT\csharppg_projects\21_Countdown\obj\Debug\net9.0\ref\21_Countdown.dll

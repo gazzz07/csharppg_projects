@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\20_TakingANumber\bin\Debug\net9.0\20_TakingANumber.exe
+C:\GIT\csharppg_projects\20_TakingANumber\bin\Debug\net9.0\20_TakingANumber.deps.json
+C:\GIT\csharppg_projects\20_TakingANumber\bin\Debug\net9.0\20_TakingANumber.runtimeconfig.json
+C:\GIT\csharppg_projects\20_TakingANumber\bin\Debug\net9.0\20_TakingANumber.dll
+C:\GIT\csharppg_projects\20_TakingANumber\bin\Debug\net9.0\20_TakingANumber.pdb
+C:\GIT\csharppg_projects\20_TakingANumber\obj\Debug\net9.0\20_TakingANumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\20_TakingANumber\obj\Debug\net9.0\20_TakingANumber.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\20_TakingANumber\obj\Debug\net9.0\20_TakingANumber.AssemblyInfo.cs
+C:\GIT\csharppg_projects\20_TakingANumber\obj\Debug\net9.0\20_TakingANumber.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\20_TakingANumber\obj\Debug\net9.0\20_TakingANumber.sourcelink.json
+C:\GIT\csharppg_projects\20_TakingANumber\obj\Debug\net9.0\20_TakingANumber.dll
+C:\GIT\csharppg_projects\20_TakingANumber\obj\Debug\net9.0\refint\20_TakingANumber.dll
+C:\GIT\csharppg_projects\20_TakingANumber\obj\Debug\net9.0\20_TakingANumber.pdb
+C:\GIT\csharppg_projects\20_TakingANumber\obj\Debug\net9.0\20_TakingANumber.genruntimeconfig.cache
+C:\GIT\csharppg_projects\20_TakingANumber\obj\Debug\net9.0\ref\20_TakingANumber.dll

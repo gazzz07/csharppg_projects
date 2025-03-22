@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\19_TheLawsOfFreach\bin\Debug\net9.0\19_TheLawsOfFreach.exe
+C:\GIT\csharppg_projects\19_TheLawsOfFreach\bin\Debug\net9.0\19_TheLawsOfFreach.deps.json
+C:\GIT\csharppg_projects\19_TheLawsOfFreach\bin\Debug\net9.0\19_TheLawsOfFreach.runtimeconfig.json
+C:\GIT\csharppg_projects\19_TheLawsOfFreach\bin\Debug\net9.0\19_TheLawsOfFreach.dll
+C:\GIT\csharppg_projects\19_TheLawsOfFreach\bin\Debug\net9.0\19_TheLawsOfFreach.pdb
+C:\GIT\csharppg_projects\19_TheLawsOfFreach\obj\Debug\net9.0\19_TheLawsOfFreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\19_TheLawsOfFreach\obj\Debug\net9.0\19_TheLawsOfFreach.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\19_TheLawsOfFreach\obj\Debug\net9.0\19_TheLawsOfFreach.AssemblyInfo.cs
+C:\GIT\csharppg_projects\19_TheLawsOfFreach\obj\Debug\net9.0\19_TheLawsOfFreach.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\19_TheLawsOfFreach\obj\Debug\net9.0\19_TheLawsOfFreach.sourcelink.json
+C:\GIT\csharppg_projects\19_TheLawsOfFreach\obj\Debug\net9.0\19_TheLawsOfFreach.dll
+C:\GIT\csharppg_projects\19_TheLawsOfFreach\obj\Debug\net9.0\refint\19_TheLawsOfFreach.dll
+C:\GIT\csharppg_projects\19_TheLawsOfFreach\obj\Debug\net9.0\19_TheLawsOfFreach.pdb
+C:\GIT\csharppg_projects\19_TheLawsOfFreach\obj\Debug\net9.0\19_TheLawsOfFreach.genruntimeconfig.cache
+C:\GIT\csharppg_projects\19_TheLawsOfFreach\obj\Debug\net9.0\ref\19_TheLawsOfFreach.dll
