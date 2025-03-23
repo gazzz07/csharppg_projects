@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\22_HuntingTheManticore\bin\Debug\net9.0\22_HuntingTheManticore.exe
+C:\GIT\csharppg_projects\22_HuntingTheManticore\bin\Debug\net9.0\22_HuntingTheManticore.deps.json
+C:\GIT\csharppg_projects\22_HuntingTheManticore\bin\Debug\net9.0\22_HuntingTheManticore.runtimeconfig.json
+C:\GIT\csharppg_projects\22_HuntingTheManticore\bin\Debug\net9.0\22_HuntingTheManticore.dll
+C:\GIT\csharppg_projects\22_HuntingTheManticore\bin\Debug\net9.0\22_HuntingTheManticore.pdb
+C:\GIT\csharppg_projects\22_HuntingTheManticore\obj\Debug\net9.0\22_HuntingTheManticore.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\22_HuntingTheManticore\obj\Debug\net9.0\22_HuntingTheManticore.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\22_HuntingTheManticore\obj\Debug\net9.0\22_HuntingTheManticore.AssemblyInfo.cs
+C:\GIT\csharppg_projects\22_HuntingTheManticore\obj\Debug\net9.0\22_HuntingTheManticore.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\22_HuntingTheManticore\obj\Debug\net9.0\22_HuntingTheManticore.sourcelink.json
+C:\GIT\csharppg_projects\22_HuntingTheManticore\obj\Debug\net9.0\22_HuntingTheManticore.dll
+C:\GIT\csharppg_projects\22_HuntingTheManticore\obj\Debug\net9.0\refint\22_HuntingTheManticore.dll
+C:\GIT\csharppg_projects\22_HuntingTheManticore\obj\Debug\net9.0\22_HuntingTheManticore.pdb
+C:\GIT\csharppg_projects\22_HuntingTheManticore\obj\Debug\net9.0\22_HuntingTheManticore.genruntimeconfig.cache
+C:\GIT\csharppg_projects\22_HuntingTheManticore\obj\Debug\net9.0\ref\22_HuntingTheManticore.dll
