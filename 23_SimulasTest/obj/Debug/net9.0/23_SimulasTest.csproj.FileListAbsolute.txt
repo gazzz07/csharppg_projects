@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\23_SimulasTest\bin\Debug\net9.0\23_SimulasTest.exe
+C:\GIT\csharppg_projects\23_SimulasTest\bin\Debug\net9.0\23_SimulasTest.deps.json
+C:\GIT\csharppg_projects\23_SimulasTest\bin\Debug\net9.0\23_SimulasTest.runtimeconfig.json
+C:\GIT\csharppg_projects\23_SimulasTest\bin\Debug\net9.0\23_SimulasTest.dll
+C:\GIT\csharppg_projects\23_SimulasTest\bin\Debug\net9.0\23_SimulasTest.pdb
+C:\GIT\csharppg_projects\23_SimulasTest\obj\Debug\net9.0\23_SimulasTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\23_SimulasTest\obj\Debug\net9.0\23_SimulasTest.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\23_SimulasTest\obj\Debug\net9.0\23_SimulasTest.AssemblyInfo.cs
+C:\GIT\csharppg_projects\23_SimulasTest\obj\Debug\net9.0\23_SimulasTest.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\23_SimulasTest\obj\Debug\net9.0\23_SimulasTest.sourcelink.json
+C:\GIT\csharppg_projects\23_SimulasTest\obj\Debug\net9.0\23_SimulasTest.dll
+C:\GIT\csharppg_projects\23_SimulasTest\obj\Debug\net9.0\refint\23_SimulasTest.dll
+C:\GIT\csharppg_projects\23_SimulasTest\obj\Debug\net9.0\23_SimulasTest.pdb
+C:\GIT\csharppg_projects\23_SimulasTest\obj\Debug\net9.0\23_SimulasTest.genruntimeconfig.cache
+C:\GIT\csharppg_projects\23_SimulasTest\obj\Debug\net9.0\ref\23_SimulasTest.dll

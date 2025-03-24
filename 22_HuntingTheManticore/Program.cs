@@ -29,25 +29,23 @@ while (manticoreHealth > 0 && cityHealth > 0)
         Console.WriteLine("That round was a DIRECT HIT!");
         Console.ForegroundColor = ConsoleColor.White;
         manticoreHealth -= cannonDamage;
-        cityHealth--;
-        roundNumber++;
     }
     else if (userGuess > manticorePosition)
     {
         Console.ForegroundColor = ConsoleColor.Cyan;
         Console.WriteLine("That round OVERSHOT the target.");
         Console.ForegroundColor = ConsoleColor.White;
-        cityHealth--;
-        roundNumber++;
     }
     else
     {
         Console.ForegroundColor = ConsoleColor.Magenta;
         Console.WriteLine("That round FELL SHORT of the target.");
         Console.ForegroundColor = ConsoleColor.White;
-        cityHealth--;
-        roundNumber++;
     }
+
+    cityHealth--;
+    roundNumber++;
+
 }
 if (manticoreHealth <= 0)
 {
