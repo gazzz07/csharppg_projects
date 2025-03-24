@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\24_SimulasSoup\bin\Debug\net9.0\24_SimulasSoup.exe
+C:\GIT\csharppg_projects\24_SimulasSoup\bin\Debug\net9.0\24_SimulasSoup.deps.json
+C:\GIT\csharppg_projects\24_SimulasSoup\bin\Debug\net9.0\24_SimulasSoup.runtimeconfig.json
+C:\GIT\csharppg_projects\24_SimulasSoup\bin\Debug\net9.0\24_SimulasSoup.dll
+C:\GIT\csharppg_projects\24_SimulasSoup\bin\Debug\net9.0\24_SimulasSoup.pdb
+C:\GIT\csharppg_projects\24_SimulasSoup\obj\Debug\net9.0\24_SimulasSoup.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\24_SimulasSoup\obj\Debug\net9.0\24_SimulasSoup.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\24_SimulasSoup\obj\Debug\net9.0\24_SimulasSoup.AssemblyInfo.cs
+C:\GIT\csharppg_projects\24_SimulasSoup\obj\Debug\net9.0\24_SimulasSoup.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\24_SimulasSoup\obj\Debug\net9.0\24_SimulasSoup.sourcelink.json
+C:\GIT\csharppg_projects\24_SimulasSoup\obj\Debug\net9.0\24_SimulasSoup.dll
+C:\GIT\csharppg_projects\24_SimulasSoup\obj\Debug\net9.0\refint\24_SimulasSoup.dll
+C:\GIT\csharppg_projects\24_SimulasSoup\obj\Debug\net9.0\24_SimulasSoup.pdb
+C:\GIT\csharppg_projects\24_SimulasSoup\obj\Debug\net9.0\24_SimulasSoup.genruntimeconfig.cache
+C:\GIT\csharppg_projects\24_SimulasSoup\obj\Debug\net9.0\ref\24_SimulasSoup.dll
