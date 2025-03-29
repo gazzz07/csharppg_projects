@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Please pick your arrowhead: 1 - Steel, 2 - Wood, 3 - Obsidian: ");
+﻿Arrow userArrow = new Arrow();
+
+Console.WriteLine("Please pick your arrowhead: 1 - Steel, 2 - Wood, 3 - Obsidian: ");
 bool arrowheadValid = false;
 
 while (!arrowheadValid)
@@ -10,14 +12,17 @@ while (!arrowheadValid)
     {
         case 1:
             Console.WriteLine("You chose steel");
+            userArrow.arrowhead = Arrowhead.Steel;
             arrowheadValid = true;
             break;
         case 2:
             Console.WriteLine("You chose wood");
+            userArrow.arrowhead = Arrowhead.Wood;
             arrowheadValid = true;
             break;
         case 3:
             Console.WriteLine("You chose obsidian");
+            userArrow.arrowhead = Arrowhead.Obsidian;
             arrowheadValid = true;
             break;
         default:
@@ -36,14 +41,17 @@ while (!fletchingValid)
     {
         case 1:
             Console.WriteLine("You chose plastic.");
+            userArrow.fletching = Fletching.Plastic;
             fletchingValid = true;
             break;
         case 2:
             Console.WriteLine("You chose turkey feathers.");
+            userArrow.fletching = Fletching.Turkey_Feathers;
             fletchingValid = true;
             break;
         case 3:
             Console.WriteLine("You chose goose feathers.");
+            userArrow.fletching = Fletching.Goose_Feathers;
             fletchingValid = true;
             break;
         default:
@@ -60,6 +68,7 @@ while (!shaftLengthValid)
     if (userShaftLength >= 60 || userShaftLength <= 100)
     {
         Console.WriteLine($"You chose {userShaftLength} centimetres.");
+        userArrow.shaftLength = userShaftLength;
         shaftLengthValid = true;
     }
     else
@@ -68,22 +77,21 @@ while (!shaftLengthValid)
     }
 }
 
-Arrow userArrow = new Arrow();
+Console.WriteLine($"You asked for {userArrow.arrowhead}, {userArrow.fletching} and {userArrow.shaftLength}");
 
+//GetCost();
 
-GetCost();
-
-    int GetUserInputInt()
+int GetUserInputInt()
 {
-        string userInput = Console.ReadLine();
+    string userInput = Console.ReadLine();
     int userInputInt = Convert.ToInt32(userInput);
     return userInputInt;
 }
 
-float GetCost()
+/*float GetCost()
 {
     return 0f;
-}
+}*/
 class Arrow
 {
     public Arrowhead arrowhead;
@@ -96,19 +104,18 @@ class Arrow
         this.fletching = Fletching.Plastic;
         this.shaftLength = 1;
         }
-    
-    public enum Arrowhead
-    {
-        Steel,
-        Wood,
-        Obsidian
-    }
+}
 
-    public enum Fletching
-    {
-        Plastic,
-        Turkey_Feathers,
-        Goose_Feathers
-    }
+public enum Arrowhead
+{
+    Steel,
+    Wood,
+    Obsidian
+}
 
+public enum Fletching
+{
+    Plastic,
+    Turkey_Feathers,
+    Goose_Feathers
 }

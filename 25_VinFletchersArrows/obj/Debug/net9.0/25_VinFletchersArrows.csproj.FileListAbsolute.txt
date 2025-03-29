@@ -1,0 +1,15 @@
+C:\GIT\csharppg_projects\25_VinFletchersArrows\obj\Debug\net9.0\25_VinFletchersArrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\csharppg_projects\25_VinFletchersArrows\obj\Debug\net9.0\25_VinFletchersArrows.AssemblyInfoInputs.cache
+C:\GIT\csharppg_projects\25_VinFletchersArrows\obj\Debug\net9.0\25_VinFletchersArrows.AssemblyInfo.cs
+C:\GIT\csharppg_projects\25_VinFletchersArrows\obj\Debug\net9.0\25_VinFletchersArrows.csproj.CoreCompileInputs.cache
+C:\GIT\csharppg_projects\25_VinFletchersArrows\obj\Debug\net9.0\25_VinFletchersArrows.sourcelink.json
+C:\GIT\csharppg_projects\25_VinFletchersArrows\bin\Debug\net9.0\25_VinFletchersArrows.exe
+C:\GIT\csharppg_projects\25_VinFletchersArrows\bin\Debug\net9.0\25_VinFletchersArrows.deps.json
+C:\GIT\csharppg_projects\25_VinFletchersArrows\bin\Debug\net9.0\25_VinFletchersArrows.runtimeconfig.json
+C:\GIT\csharppg_projects\25_VinFletchersArrows\bin\Debug\net9.0\25_VinFletchersArrows.dll
+C:\GIT\csharppg_projects\25_VinFletchersArrows\bin\Debug\net9.0\25_VinFletchersArrows.pdb
+C:\GIT\csharppg_projects\25_VinFletchersArrows\obj\Debug\net9.0\25_VinFletchersArrows.dll
+C:\GIT\csharppg_projects\25_VinFletchersArrows\obj\Debug\net9.0\refint\25_VinFletchersArrows.dll
+C:\GIT\csharppg_projects\25_VinFletchersArrows\obj\Debug\net9.0\25_VinFletchersArrows.pdb
+C:\GIT\csharppg_projects\25_VinFletchersArrows\obj\Debug\net9.0\25_VinFletchersArrows.genruntimeconfig.cache
+C:\GIT\csharppg_projects\25_VinFletchersArrows\obj\Debug\net9.0\ref\25_VinFletchersArrows.dll
